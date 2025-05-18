@@ -70,7 +70,7 @@ class Drop{
     }
 }
 
-//test
+// siemka
 
 const goblinDrops = [
     new Loot("Short sword", 35),
